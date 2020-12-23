@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "engineeringfa91f790": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
